@@ -8,6 +8,7 @@ void traverse(short int, short int, long int);
 short int edges[EDGES];
 
 int main () {
+
 	edges[0] = 12;
 	edges[1] = 13;
 	edges[2] = 15;
