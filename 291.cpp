@@ -19,7 +19,6 @@ int main () {
 	edges[7] = 45;
 
 	traverse(1, EDGES, 100000000);
-
 	return 0;
 }
 
